@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Mark - Subdomain Takeover" />
         <p className="description">
-          markanthonyormega@gmail.com</code>
+          markanthonyormega@gmail.com
         </p>
       </main>
 
